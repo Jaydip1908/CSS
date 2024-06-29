@@ -1,0 +1,90 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.body{
+    background-color:black;
+}
+
+.section1 {
+
+    width: 100%;
+    height: 300px;
+    font-family: indieflower;
+    font-weight: 600;
+    background-color: #81a75bfb;
+    background: linear-gradient(rgba(100, 100, 79, 0.441), rgb(89, 140, 106), gray);
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+@font-face {
+    font-family: indieflower;
+    src: url(./font/IndieFlower-Regular.ttf);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.section2 {
+    width: 100%;
+    height: 300px;
+    font-family: pacifico-regular;
+    font-weight: 600;
+    background-color: #4b5b5b;
+    background: linear-gradient(rgba(130, 130, 14, 0.412), rgba(193, 55, 55, 0.386), rgba(164, 42, 42, 0.425));
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+@font-face {
+    font-family: pacifico-regular;
+    src: url(./font/Pacifico-Regular.ttf);
+}
+
+.section3 {
+    background-image: url(./img/bg6.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    font-family: SyneMono-Regular;
+    font-weight: 600;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+@font-face {
+    font-family: SyneMono-Regular;
+    src: url(./font/SyneMono-Regular.ttf);
+}
+
+.p1 {
+    border: 3px solid rgb(8, 114, 159);
+}
+
+@font-face {
+    font-family: PatrickHand-Regular;
+    src: url(./font/PatrickHand-Regular.ttf);
+}
+
+.p2 {
+    border: 3px dotted rgb(100, 66, 236);
+}
+
+.p3 {
+    border: 3px double rgb(218, 66, 66);
+}
