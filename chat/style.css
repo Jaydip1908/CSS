@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+@font-face {
+    font-family:RobotoSlab ;
+    src: url(./font/RobotoSlab-Bold.ttf);
+}
+
+.freind{
+    background-color: #898ab3;
+    padding:30px;
+    color: #fff;
+    padding-left:80px;}
+
+.day1{color:#1e2528 ;
+    text-align: center;}
+
+#chatbox{
+    color: #c11454;
+    padding:40px;
+    font-family:RobotoSlab;
+    font-weight:600px;
+    background-blend-mode:overlay;
+    background-color:#9fa7aecf;
+    font-size: 20px;
+}
+
+.dost{text-align: left;}
+
+.yaar{text-align: right;}
+
+.timeone{text-align: left;}
+
+.timetwo{text-align: right;}
+
