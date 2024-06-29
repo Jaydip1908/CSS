@@ -1,0 +1,89 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .main{
+    margin:100px auto;
+    padding: 50px;
+    background-image: url(./img/img/bg-jpg.png);
+    background-blend-mode: hue;
+    background-color: rgb(214, 230, 165);
+    background-repeat: no-repeat;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    border: 1px solid black;
+  }
+  .loginform:hover{
+    transform: scale(0.8);
+    transition: all 0.8s linear;
+    border-radius: 50px;
+  }
+  .loginfrom-head{
+    font-size: 50px;
+    font-family: poppins;
+    color: rgb(89, 88, 87);
+  }
+  
+  
+  .icon{
+    font-size: 30px;
+    color: rgb(70, 94, 94);
+  }
+  
+  .icon2{
+    font-size: 20px;
+  }
+  .text{
+    width: 50px;
+  }
+  
+  .loginform1{
+    font-size: 20px;
+    font-family: math;
+  }
+  
+  .loginform2{
+    font-size: 18px;
+    font-family: math;
+  }
+  
+  .button{
+    font-size: 30px;
+    width: 150px;
+    height: 40px;
+    border-radius: 50px;
+    align-items: center;
+    padding-bottom: 10px;
+    background-color: rgb(212, 213, 205);
+  }
+  .button:hover{
+    background-color: #b7b3b3;
+    transform: scale(1.1);
+  }
+  .form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  input{
+    font-size: 20px;
+  }
+  
+    input:hover{
+    background-color: #c3caca;
+   } 
+  
+   
+  .account{
+    font-size: 20px;
+  }
