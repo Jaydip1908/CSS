@@ -1,0 +1,45 @@
+@font-face {
+    font-family:kanit ;
+    src: url(./font/font/Kanit-Black.ttf);
+}
+
+#info{
+    border: dashed rgb(112, 112, 170);
+    background-color: rgb(220, 213, 213);
+    color: rgb(50, 40, 40);
+}
+
+h3 {
+    border: solid rgb(93, 44, 44);
+    background-color: rgb(194, 183, 183);
+    color: rgb(45, 64, 58);
+}
+
+div {
+    border: solid rgb(112, 91, 132);
+}
+h2
+{
+    background-color: #b7b2c2;
+    
+   
+}
+
+p {
+    background-color: #d1c4c4;
+    /* font-family: 'Ysabeau Office', sans-serif; */
+    font-family: 'Kanit', sans-serif;
+font-family: 'Ysabeau Office', sans-serif;
+    font-size: large;
+    color: rgb(37, 35, 45);
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    text-decoration: underline;
+    font-style: italic;
+    text-transform: capitalize;
+    text-indent: 200px;
+
+    
+}

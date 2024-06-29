@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.background{
+
+    width: auto; height: 150vh;
+    background-image: url(./polina-kuzovkova-S0qc3HOavb4-unsplash.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-blend-mode: hue;
+    background-attachment: fixed;
+    background-clip: text;
+    color: rgb(206, 209, 223);
+    font-family: releway;
+    font-size: large;
+    
+    
+
+}
